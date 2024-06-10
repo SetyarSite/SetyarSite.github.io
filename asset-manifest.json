@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bf12859.css",
+    "main.js": "/static/js/main.44671d0b.js",
+    "static/js/511.e57ae850.chunk.js": "/static/js/511.e57ae850.chunk.js",
+    "static/media/Choosing clothes-amico.png": "/static/media/Choosing clothes-amico.6b0b9b83503b3addab54.png",
+    "static/media/404 Error.gif": "/static/media/404 Error.5040a9808faebbf0e1c2.gif",
+    "static/media/Login.gif": "/static/media/Login.ebf00bbeb5e379c9ac44.gif",
+    "static/media/Image upload-rafiki.png": "/static/media/Image upload-rafiki.a82ce18d39cb420587ab.png",
+    "static/media/Choosing clothesm.gif": "/static/media/Choosing clothesm.b39dc1483223df515e61.gif",
+    "static/media/Choosing clothes.gif": "/static/media/Choosing clothes.ac248a0442ba084b60ea.gif",
+    "static/media/1.jpg": "/static/media/1.7dbb788d3f05a433c882.jpg",
+    "static/media/UploadWhite.png": "/static/media/UploadWhite.595f13ebb602860602f4.png",
+    "index.html": "/index.html",
+    "main.8bf12859.css.map": "/static/css/main.8bf12859.css.map",
+    "main.44671d0b.js.map": "/static/js/main.44671d0b.js.map",
+    "511.e57ae850.chunk.js.map": "/static/js/511.e57ae850.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf12859.css",
+    "static/js/main.44671d0b.js"
+  ]
+}
